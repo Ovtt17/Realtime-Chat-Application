@@ -29,8 +29,8 @@ This is a real-time chat application built with Java, Spring Boot, and MongoDB. 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Ovtt17/realtime-chat-backend.git
-cd realtime-chat-backend
+git clone https://github.com/Ovtt17/Realtime-Chat-Application.git
+cd Realtime-Chat-Application
 ```
 
 ### Configure MongoDB
